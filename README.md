@@ -1,8 +1,3 @@
-echo "# FDS_mini_project" > README.md
-git add README.md
-git commit -m "Add README"
-git push origin main
-
 # Disease Outcome Predictor
 
 A Streamlit web application that predicts the health outcome of patients based on disease type, symptoms, demographic, and health indicators using a Random Forest classifier.
